@@ -31,8 +31,8 @@ building backend systems and explaining tech on YouTube.
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahmontim&hide_border=true)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&hide_border=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahmontim&hide_border=true&theme=transparent)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
