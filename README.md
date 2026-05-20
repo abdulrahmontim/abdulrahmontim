@@ -31,9 +31,8 @@ building backend systems and explaining tech on YouTube.
 ---
 
 ## 📊 GitHub Stats
-
-![Abdulrahmon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&hide_border=true)
+![Abdulrahmon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&hide_border=true&theme=default)
 
 ---
 
