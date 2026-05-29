@@ -6,10 +6,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat&color=grey)
 
 Third year Computer Engineering student at the University of Lagos,
-building backend systems and explaining tech on YouTube.
+building secure backend systems and explaining tech on YouTube.
 
 - 🔭 I'm currently working on backend systems and API development
-- 🌱 I'm currently learning system design
+- 🌱 I'm currently learning system design and competitive programming
 - 👯 I'm looking to collaborate on interesting backend or open source projects
 - 💬 Ask me about Python, Django, FastAPI or low-level programming concepts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdulrahmon-sulaimon)
