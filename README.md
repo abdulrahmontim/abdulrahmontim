@@ -6,15 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-abdulrahmonsulaimon60@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmonsulaimon60@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat-square&color=blue)
 
-Computer Engineering student at the **University of Lagos**, focused on building **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **YouTube**.
-
----
-
-## ⚡ What I Do
-
-- 🏗️ **Backend Engineering & Scalability:** Designing robust REST APIs, distributed task runners, and streaming data pipelines with Python, Django, FastAPI, PostgreSQL, and Redis.
-- ⚙️ **Low-Level Systems & Hardware:** Exploring computer architecture, virtual machine emulation in C++, and digital hardware logic.
-- 📺 **Technical Communication:** Deconstructing everyday gadgets, computer internals, and electronics to make complex engineering accessible.
+Computer Engineering student at the **University of Lagos**, focused on **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
 
 ---
 
@@ -24,6 +16,7 @@ Computer Engineering student at the **University of Lagos**, focused on building
 | :--- | :--- | :--- |
 | **[Profile Intelligence API](https://github.com/abdulrahmontim/profile-intelligence-api)** | High-throughput analytics platform featuring OAuth 2.0 / PKCE, Redis caching, query indexing, and memory-efficient streaming CSV ingestion at 500K-row scale. | `Python` `Django REST` `PostgreSQL` `Redis` |
 | **[Background Job Scheduler](https://github.com/abdulrahmontim/background_job_scheduler)** | Distributed background execution engine with heap-based priority scheduling, DAG task dependencies, starvation prevention, and dead-letter queues (DLQ). | `Python` `Concurrency` `Data Structures` |
+| **[Async HTTP Retry Engine](https://github.com/abdulrahmontim/retry_engine)** | Resilient async worker service buffering outbound API calls and managing transient network failures with exponential backoff, randomized jitter, and persistent SQLite queues. | `Python` `FastAPI` `AsyncIO` `SQLite` |
 | **[CHIP-8 Virtual Machine](https://github.com/abdulrahmontim/CHIP8-emulator)** | Complete C++17 virtual machine implementing fetch-decode-execute CPU cycles, 35 opcodes, SDL2 graphics/audio emulation, and automated unit test suites. | `C++17` `SDL2` `Virtualization` |
 | **[Electronics Shop Platform](https://github.com/abdulrahmontim/electronics-shop)** | Full-stack e-commerce portal for microcontrollers, sensors, and development tools with automated transactional notifications and inventory workflows. | `Next.js 15` `TypeScript` `Supabase` `Mailgun` |
 
@@ -45,13 +38,8 @@ Computer Engineering student at the **University of Lagos**, focused on building
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Developer Tooling & Systems
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -59,10 +47,7 @@ Computer Engineering student at the **University of Lagos**, focused on building
 
 > *"Demystifying electronics, computer hardware, and the science behind everyday devices."*
 
-I make educational videos on [YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim) diving into how computers, chips, and electronic circuits work under the hood.
-
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
-[![Subscribe](https://img.shields.io/badge/Subscribe-@abdulrahmontim-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
+I create in-depth videos exploring computer architecture, semiconductor chips, circuit design, and everyday gadget engineering over on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
 
 ---
 
@@ -83,11 +68,10 @@ I make educational videos on [YouTube (@abdulrahmontim)](https://youtube.com/@ab
 
 ---
 
-## 💬 Get In Touch
+## 💬 Connect
 
-Whether you'd like to collaborate on backend/systems projects, discuss open-source work, or chat about tech & hardware:
+Always open to discussing backend architectures, systems engineering, open-source collaborations, or technical content:
 
 - 🌐 **Portfolio & Blog:** [abdulrahmon.tech](https://abdulrahmon.tech)
 - 💼 **LinkedIn:** [Abdulrahmon Sulaimon](https://www.linkedin.com/in/abdulrahmon-sulaimon)
 - 📬 **Email:** [abdulrahmonsulaimon60@gmail.com](mailto:abdulrahmonsulaimon60@gmail.com)
-- 📺 **YouTube:** [@abdulrahmontim](https://youtube.com/@abdulrahmontim)
