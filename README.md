@@ -5,7 +5,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@abdulrahmontim-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat-square&color=blue)
 
-Computer Engineering student at the **University of Lagos**, focused on **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
+Computer Engineering student at the **University of Lagos**, building backend systems and APIs with **Python, Django, and FastAPI**. Constantly upskilling in system fundamentals and low-level concepts, while sharing what I learn about software and electronics on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
 
 ---
 
