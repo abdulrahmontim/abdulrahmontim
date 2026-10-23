@@ -1,40 +1,92 @@
-# Hi, I'm Abdulrahmon 👋
+# Hi, I'm Abdulrahmon Sulaimon 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmon-sulaimon)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyv_D2STQwQxY-EkRuMS5NQ?style=flat&logo=youtube&label=Subscribers)](https://youtube.com/@abdulrahmontim)
-![Visitor Count](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat&color=grey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdulrahmon.tech-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://abdulrahmon.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahmon%20Sulaimon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmon-sulaimon)
+[![YouTube](https://img.shields.io/badge/YouTube-@abdulrahmontim-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
+[![Email](https://img.shields.io/badge/Email-abdulrahmonsulaimon60@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmonsulaimon60@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat-square&color=blue)
 
-Third year Computer Engineering student at the University of Lagos,
-building secure backend systems and explaining tech on YouTube.
+Computer Engineering student at the **University of Lagos**, focused on building **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **YouTube**.
 
-- 🔭 I'm currently working on backend systems and API development
-- 🌱 I'm currently learning system design and competitive programming
-- 👯 I'm looking to collaborate on interesting backend or open source projects
-- 💬 Ask me about Python, Django, FastAPI or low-level programming concepts
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdulrahmon-sulaimon)
-- ⚡ Fun fact: I explain the science behind everyday gadgets on YouTube
+---
+
+## ⚡ What I Do
+
+- 🏗️ **Backend Engineering & Scalability:** Designing robust REST APIs, distributed task runners, and streaming data pipelines with Python, Django, FastAPI, PostgreSQL, and Redis.
+- ⚙️ **Low-Level Systems & Hardware:** Exploring computer architecture, virtual machine emulation in C++, and digital hardware logic.
+- 📺 **Technical Communication:** Deconstructing everyday gadgets, computer internals, and electronics to make complex engineering accessible.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Profile Intelligence API](https://github.com/abdulrahmontim/profile-intelligence-api)** | High-throughput analytics platform featuring OAuth 2.0 / PKCE, Redis caching, query indexing, and memory-efficient streaming CSV ingestion at 500K-row scale. | `Python` `Django REST` `PostgreSQL` `Redis` |
+| **[Background Job Scheduler](https://github.com/abdulrahmontim/background_job_scheduler)** | Distributed background execution engine with heap-based priority scheduling, DAG task dependencies, starvation prevention, and dead-letter queues (DLQ). | `Python` `Concurrency` `Data Structures` |
+| **[CHIP-8 Virtual Machine](https://github.com/abdulrahmontim/CHIP8-emulator)** | Complete C++17 virtual machine implementing fetch-decode-execute CPU cycles, 35 opcodes, SDL2 graphics/audio emulation, and automated unit test suites. | `C++17` `SDL2` `Virtualization` |
+| **[Electronics Shop Platform](https://github.com/abdulrahmontim/electronics-shop)** | Full-stack e-commerce portal for microcontrollers, sensors, and development tools with automated transactional notifications and inventory workflows. | `Next.js 15` `TypeScript` `Supabase` `Mailgun` |
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python, C++, JavaScript
-- **Frameworks:** Django, FastAPI
-- **Tools:** Git
-- **Currently exploring:** System design
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Backend, Data & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Developer Tooling & Systems
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📺 YouTube
-> I create videos that explain electronics, computers, and the science behind the gadgets we use every day.
+## 📺 Content Creation & YouTube
+
+> *"Demystifying electronics, computer hardware, and the science behind everyday devices."*
+
+I make educational videos on [YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim) diving into how computers, chips, and electronic circuits work under the hood.
+
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCyv_D2STQwQxY-EkRuMS5NQ?style=flat-square&logo=youtube&logoColor=white&label=Subscribers)](https://youtube.com/@abdulrahmontim)
 
 ---
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahmontim&hide_border=true&theme=transparent)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&hide_border=true&theme=transparent&hide=c)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true" alt="Abdulrahmon's GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  </picture>
+</div>
 
 ---
 
-## 📫 Let's connect
-> Open to collaborations, feedback, and interesting problems.
+## 💬 Get In Touch
+
+Whether you'd like to collaborate on backend/systems projects, discuss open-source work, or chat about tech & hardware:
+
+- 🌐 **Portfolio & Blog:** [abdulrahmon.tech](https://abdulrahmon.tech)
+- 💼 **LinkedIn:** [Abdulrahmon Sulaimon](https://www.linkedin.com/in/abdulrahmon-sulaimon)
+- 📬 **Email:** [abdulrahmonsulaimon60@gmail.com](mailto:abdulrahmonsulaimon60@gmail.com)
+- 📺 **YouTube:** [@abdulrahmontim](https://youtube.com/@abdulrahmontim)
