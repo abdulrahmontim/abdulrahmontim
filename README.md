@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahmon%20Sulaimon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmon-sulaimon)
 [![YouTube](https://img.shields.io/badge/YouTube-@abdulrahmontim-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
 [![Email](https://img.shields.io/badge/Email-abdulrahmonsulaimon60@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmonsulaimon60@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat-square&color=blue)
 
 Computer Engineering student at the **University of Lagos**, focused on **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
 
@@ -46,6 +47,23 @@ Computer Engineering student at the **University of Lagos**, focused on **high-p
 > *"Demystifying electronics, computer hardware, and the science behind everyday devices."*
 
 I create in-depth videos exploring computer architecture, semiconductor chips, circuit design, and everyday gadget engineering over on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true" alt="Abdulrahmon's GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  </picture>
+</div>
 
 ---
 
