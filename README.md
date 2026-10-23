@@ -61,7 +61,8 @@ Computer Engineering student at the **University of Lagos**, focused on building
 
 I make educational videos on [YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim) diving into how computers, chips, and electronic circuits work under the hood.
 
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCyv_D2STQwQxY-EkRuMS5NQ?style=flat-square&logo=youtube&logoColor=white&label=Subscribers)](https://youtube.com/@abdulrahmontim)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
+[![Subscribe](https://img.shields.io/badge/Subscribe-@abdulrahmontim-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
 
 ---
 
