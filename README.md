@@ -3,7 +3,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdulrahmon.tech-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://abdulrahmon.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahmon%20Sulaimon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmon-sulaimon)
 [![YouTube](https://img.shields.io/badge/YouTube-@abdulrahmontim-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
-[![Email](https://img.shields.io/badge/Email-abdulrahmonsulaimon60@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmonsulaimon60@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat-square&color=blue)
 
 Computer Engineering student at the **University of Lagos**, focused on **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
@@ -43,14 +42,6 @@ Computer Engineering student at the **University of Lagos**, focused on **high-p
 
 ---
 
-## 📺 Content Creation & YouTube
-
-> *"Demystifying electronics, computer hardware, and the science behind everyday devices."*
-
-I create in-depth videos exploring computer architecture, semiconductor chips, circuit design, and everyday gadget engineering over on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -74,4 +65,3 @@ Always open to discussing backend architectures, systems engineering, open-sourc
 
 - 🌐 **Portfolio & Blog:** [abdulrahmon.tech](https://abdulrahmon.tech)
 - 💼 **LinkedIn:** [Abdulrahmon Sulaimon](https://www.linkedin.com/in/abdulrahmon-sulaimon)
-- 📬 **Email:** [abdulrahmonsulaimon60@gmail.com](mailto:abdulrahmonsulaimon60@gmail.com)
