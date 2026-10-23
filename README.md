@@ -4,17 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahmon%20Sulaimon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahmon-sulaimon)
 [![YouTube](https://img.shields.io/badge/YouTube-@abdulrahmontim-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
 [![Email](https://img.shields.io/badge/Email-abdulrahmonsulaimon60@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmonsulaimon60@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=abdulrahmontim&style=flat-square&color=blue)
 
-Computer Engineering student at the **University of Lagos**, focused on building **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **YouTube**.
-
----
-
-## ⚡ What I Do
-
-- 🏗️ **Backend Engineering & Scalability:** Designing robust REST APIs, distributed task runners, and streaming data pipelines with Python, Django, FastAPI, PostgreSQL, and Redis.
-- ⚙️ **Low-Level Systems & Hardware:** Exploring computer architecture, virtual machine emulation in C++, and digital hardware logic.
-- 📺 **Technical Communication:** Deconstructing everyday gadgets, computer internals, and electronics to make complex engineering accessible.
+Computer Engineering student at the **University of Lagos**, focused on **high-performance backend architectures**, distributed systems, and low-level software. Alongside engineering, I break down electronics, computer hardware, and software systems on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
 
 ---
 
@@ -45,13 +36,8 @@ Computer Engineering student at the **University of Lagos**, focused on building
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Developer Tooling & Systems
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -59,35 +45,14 @@ Computer Engineering student at the **University of Lagos**, focused on building
 
 > *"Demystifying electronics, computer hardware, and the science behind everyday devices."*
 
-I make educational videos on [YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim) diving into how computers, chips, and electronic circuits work under the hood.
-
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
-[![Subscribe](https://img.shields.io/badge/Subscribe-@abdulrahmontim-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@abdulrahmontim)
+I create in-depth videos exploring computer architecture, semiconductor chips, circuit design, and everyday gadget engineering over on **[YouTube (@abdulrahmontim)](https://youtube.com/@abdulrahmontim)**.
 
 ---
 
-## 📊 GitHub Analytics
+## 💬 Connect
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true" alt="Abdulrahmon's GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-  </picture>
-</div>
-
----
-
-## 💬 Get In Touch
-
-Whether you'd like to collaborate on backend/systems projects, discuss open-source work, or chat about tech & hardware:
+Always open to discussing backend architectures, systems engineering, open-source collaborations, or technical content:
 
 - 🌐 **Portfolio & Blog:** [abdulrahmon.tech](https://abdulrahmon.tech)
 - 💼 **LinkedIn:** [Abdulrahmon Sulaimon](https://www.linkedin.com/in/abdulrahmon-sulaimon)
 - 📬 **Email:** [abdulrahmonsulaimon60@gmail.com](mailto:abdulrahmonsulaimon60@gmail.com)
-- 📺 **YouTube:** [@abdulrahmontim](https://youtube.com/@abdulrahmontim)
