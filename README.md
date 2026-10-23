@@ -9,18 +9,6 @@ Computer Engineering student at the **University of Lagos**, focused on **high-p
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Profile Intelligence API](https://github.com/abdulrahmontim/profile-intelligence-api)** | High-throughput analytics platform featuring OAuth 2.0 / PKCE, Redis caching, query indexing, and memory-efficient streaming CSV ingestion at 500K-row scale. | `Python` `Django REST` `PostgreSQL` `Redis` |
-| **[Background Job Scheduler](https://github.com/abdulrahmontim/background_job_scheduler)** | Distributed background execution engine with heap-based priority scheduling, DAG task dependencies, starvation prevention, and dead-letter queues (DLQ). | `Python` `Concurrency` `Data Structures` |
-| **[Async HTTP Retry Engine](https://github.com/abdulrahmontim/retry_engine)** | Resilient async worker service buffering outbound API calls and managing transient network failures with exponential backoff, randomized jitter, and persistent SQLite queues. | `Python` `FastAPI` `AsyncIO` `SQLite` |
-| **[CHIP-8 Virtual Machine](https://github.com/abdulrahmontim/CHIP8-emulator)** | Complete C++17 virtual machine implementing fetch-decode-execute CPU cycles, 35 opcodes, SDL2 graphics/audio emulation, and automated unit test suites. | `C++17` `SDL2` `Virtualization` |
-| **[Electronics Shop Platform](https://github.com/abdulrahmontim/electronics-shop)** | Full-stack e-commerce portal for microcontrollers, sensors, and development tools with automated transactional notifications and inventory workflows. | `Next.js 15` `TypeScript` `Supabase` `Mailgun` |
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages & Core
