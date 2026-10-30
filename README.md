@@ -34,14 +34,14 @@ Computer Engineering student at the **University of Lagos**, building backend sy
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulrahmontim&show_icons=true&theme=github_dark&hide_border=true" alt="Abdulrahmon's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulrahmontim&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulrahmontim&show_icons=true&bg_color=fffefe&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&hide_border=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulrahmontim&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&hide_border=true" alt="Abdulrahmon's GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&bg_color=fffefe&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&hide_border=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulrahmontim&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&hide_border=true" alt="Top Languages" />
   </picture>
 </div>
 
